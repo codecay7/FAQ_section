@@ -6,7 +6,7 @@
 
 html,body{
   background: linear-gradient(to bottom, #429abc, #770f0f);
-   height: 100%;
+   min-height: 100%;
    width: 100%;
 }
 .hero{

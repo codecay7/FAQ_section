@@ -1,1 +1,1 @@
-[Visit my site](https://codecay7.github.io/FAQ_section/)
+ A FAQ section with responsiveness:[Visit site](https://codecay7.github.io/FAQ_section/)
